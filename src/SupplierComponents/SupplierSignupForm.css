@@ -1,0 +1,143 @@
+.supplier-signup-form-main {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #dff6ff;
+    height: 100%;
+}
+
+.supplier-signup-form-sub-main {
+    display: flex;
+    justify-content: center;
+    height: 550px;
+    width: 450px;
+    box-shadow: 2px 3px 4px 3px #2D31FA;
+    padding-top: 30px;
+    border-radius: 60px;
+    background-color: #5d8bfa;
+}
+
+.supplier-signup-form-sub-sub-main {
+    background-color: #5d8bfa;
+    height: 400px;
+}
+
+.supplier-signup-form-imgs {
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+    background-color: #5d8bfa;
+}
+
+.supplier-signup-form-container-image {
+    background-color: #2D31FA;
+    border-radius: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 115px;
+    width: 115px;
+}
+
+.supplier-signup-form-profile {
+    height: 100px;
+    width: 100px;
+    border-radius: 130px;
+    background-color: #dff6ff;
+    display: flex;
+}
+
+
+input {
+    width: 300px;
+    height: 50px;
+    border-radius: 60px;
+    box-shadow: inset 0px 0px 25px 0px #051367;
+    border: none;
+    outline: none;
+    background-color: #5d8bfa;
+    color: #000;
+}
+
+.supplier-signup-form-details {
+    background-color: #5d8bfa;
+}
+
+.supplier-signup-form-heading {
+    background-color: #5d8bfa;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.supplier-signup-form-name {
+    color: black;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.supplier-signup-form-second-input {
+    padding-top: 20px;
+    background-color: #5d8bfa;
+}
+
+.supplier-signup-form-button {
+    width: 330px;
+    height: 50px;
+    border-radius: 60px;
+    background-color: #2D31FA;
+    color: #dff6ff;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+}
+
+.supplier-signup-form-button:hover{
+    border-radius: 10px;
+    color: #051367;
+    background-color: #dff6ff;
+}
+
+.supplier-signup-form-login-button {
+    padding-top: 25px;
+    background-color: #5d8bfa;
+}
+
+.supplier-signup-logos{
+    background-color: #5d8bfa;
+    padding-top: 25px;
+    display:flex;
+    align-content: center;
+    padding-left: 50px;
+}
+
+.supplier-signup-single-logos{
+    background-color: #5d8bfa;
+    padding-right: 41px;
+}
+
+.supplier-signup-single-logos4{
+    background-color: #5d8bfa;
+}
+
+.supplier-signup-logos img{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.supplier-signup-form-link {
+    font-size: 20px;
+    font-weight: 400;
+    background-color: #5d8bfa;
+    color: black;
+    padding-top: 20px;
+}
+
+.supplier-signup-form-a {
+    color: blue;
+    background-color: #5d8bfa;
+}

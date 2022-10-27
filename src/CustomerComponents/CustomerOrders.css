@@ -1,0 +1,22 @@
+.customermyorders-main {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #dff6ff;
+    padding-top: 20px;
+}
+
+.customermyorders-table {
+    border: 1px solid #5d8bfa;
+    width: 95%;
+    max-width: 1500px;
+}
+
+.customermyorders-th {
+    border-bottom: 1px solid #051367;
+}
+
+.customermyorders-td {
+    text-align: center;
+}

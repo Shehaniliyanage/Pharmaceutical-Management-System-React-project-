@@ -1,0 +1,150 @@
+.AdminAddPayments-main {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #dff6ff;
+    height: 100%;
+}
+
+.AdminAddPayments-sub-main {
+    display: flex;
+    justify-content: center;
+    height: 420px;
+    width: 450px;
+    box-shadow: 2px 3px 4px 3px #2D31FA;
+    padding-top: 30px;
+    border-radius: 60px;
+    background-color: #5d8bfa;
+}
+
+.AdminAddPayments-sub-sub-main {
+    background-color: #5d8bfa;
+    height:380px;
+}
+
+.AdminAddPayments-imgs {
+    padding-top: 20px;
+    justify-content: center;
+    display: flex;
+    background-color: #5d8bfa;
+}
+
+.AdminAddPayments-container-image {
+    background-color: #2D31FA;
+    border-radius: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 115px;
+    width: 115px;
+}
+
+.AdminAddPayments-form-profile {
+    height: 100px;
+    width: 100px;
+    border-radius: 130px;
+    background-color: #dff6ff;
+    display: flex;
+}
+
+
+input {
+    width: 300px;
+    height: 50px;
+    border-radius: 60px;
+    box-shadow: inset 0px 0px 25px 0px #051367;
+    border: none;
+    outline: none;
+    background-color: #5d8bfa;
+    color: #000;
+}
+
+select{
+    width: 300px;
+    height: 50px;
+    border-radius: 60px;
+    box-shadow: inset 0px 0px 25px 0px #051367;
+    border: none;
+    outline: none;
+    background-color: #5d8bfa;
+    color: #000;
+}
+
+textarea{
+    width: 300px;
+    height: 100px;
+    border-radius: 20px;
+    box-shadow: inset 0px 0px 25px 0px #051367;
+    border: none;
+    outline: none;
+    background-color: #5d8bfa;
+    color: #000;
+}
+
+.AdminAddPayments-details {
+    background-color: #5d8bfa;
+}
+
+.AdminAddPayments-heading {
+    background-color: #5d8bfa;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.AdminAddPayments-name {
+    color: black;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.AdminAddPayments-second-input {
+    padding-top: 20px;
+    background-color: #5d8bfa;
+}
+
+.AdminAddPayments-button {
+    width: 330px;
+    height: 50px;
+    border-radius: 60px;
+    background-color: #2D31FA;
+    color: #dff6ff;
+    font-size: 25px;
+    border: none;
+    cursor: pointer;
+}
+
+.AdminAddPayments-button:hover{
+    border-radius: 10px;
+    color: #051367;
+    background-color: #dff6ff;
+}
+
+.AdminAddPayments-btn{
+    width: 120px;
+    height: 30px;
+    border-radius: 60px;
+    background-color: #2D31FA;
+    color: #dff6ff;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+}
+
+.AdminAddPayments-btn:hover{
+    border-radius: 10px;
+    color: #dff6ff;
+    background-color:  #051367;
+}
+
+.AdminAddPayments-login-button {
+    padding-top: 25px;
+    background-color: #5d8bfa;
+}
+
+.AdminAddPayments-radio{
+    width: 20px;
+    height: 20px;
+}

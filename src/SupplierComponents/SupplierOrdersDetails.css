@@ -1,0 +1,67 @@
+.SupplierOrderViewPopup {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: #dff6ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.SupplierOrderViewPopup-inner {
+    top: 30px;
+    bottom: 20px;
+    position: relative;
+    padding: 32px;
+    width: 100%;
+    max-width: 1000px;
+    background-color: #5d8bfa;
+    border-radius: 20px;
+}
+
+.suppliermyorders-button {
+    width: 100px;
+    height: 40px;
+    background-color: #2D31FA;
+    color: #dff6ff;
+    border: 1px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.suppliermyorders-button:hover{
+    border-radius: 10px;
+    color: #5d8bfa;
+    background-color:  #051367;
+}
+
+.suppliermyorders-h2 {
+    background-color: #5d8bfa;
+    padding-bottom: 10px;
+}
+
+.suppliermyorders-label {
+    background-color: #5d8bfa;
+    font-size: 25px;
+}
+
+.suppliermyorders-input{
+    font-size: 20px;
+    padding-left: 25px;
+}
+
+.suppliermyorders-select{
+    width: 300px;
+    height: 50px;
+    border-radius: 60px;
+    box-shadow: inset 0px 0px 25px 0px #051367;
+    border: none;
+    outline: none;
+    background-color: #5d8bfa;
+    color: #000;
+    font-size: 20px;
+    padding-left: 25px;
+}
